@@ -1,2 +1,18 @@
 # event_package
-Windows용 행사 고객 보관 키오스크 실행파일 배포
+
+Windows용 행사 고객 보관 키오스크 실행파일 배포 저장소입니다.
+
+## 다운로드
+
+[최신 event_package.exe 다운로드](https://github.com/TereBin/event_package/releases/latest/download/event_package.exe)
+
+## 실행 방법
+
+1. 위 링크에서 `event_package.exe`를 다운로드합니다.
+2. 다운로드한 실행파일을 더블클릭합니다.
+3. 서버 실행 비밀번호를 입력합니다.
+4. 고객 화면이 자동으로 열리면 사용을 시작합니다.
+
+별도 설치 파일이나 설정 파일은 필요하지 않습니다. 고객 데이터와 로그는 Windows 사용자 로컬 앱 데이터 폴더에 보존되므로 새 버전의 실행파일로 교체해도 유지됩니다.
+
+Windows SmartScreen 경고가 표시되면 `추가 정보`를 누른 뒤 `실행`을 선택하세요.
